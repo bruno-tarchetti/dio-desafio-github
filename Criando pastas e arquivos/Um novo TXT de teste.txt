@@ -1,0 +1,1 @@
+Teste utilizando Gitbash, um termial extendido.
